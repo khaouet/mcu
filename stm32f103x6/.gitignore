@@ -1,0 +1,98 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+
+# Build directories
+Debug/
+Release/
+build/
+
+# Additional STM32 build artifacts
+*.list
+*.verilog
+*.asm
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# STM32/CMake/IDE artifacts
+build/
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE metadata
+.metadata/
+.vscode/
+.idea/
+.vs/
+
+# Temp & backups
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+*.user
+*.workspace
+
+# Proteus project backups
+Proteus/Project Backups/
+*.pdsprj
+
+# User-local IDE artifacts
+FreeRTOS/*/.project
+Proteus/sdcard.mmc
+Simulation/**/.settings/
+Simulation/**/.launch
