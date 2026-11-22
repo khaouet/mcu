@@ -54,3 +54,8 @@ dkms.conf
 # debug information files
 *.dwo
 
+# validation tools
+scripts/
+
+# stm32 projects out of scope
+stm32f407/
