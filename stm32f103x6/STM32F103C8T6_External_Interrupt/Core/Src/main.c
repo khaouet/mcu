@@ -97,14 +97,6 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  int z = 10000;
-	  int y = 1000;
-	  int n = 0;
-	  while(y>=0)
-	  {
-		  n = z/y;
-		  y--;
-	  }
 
   }
   /* USER CODE END 3 */
