@@ -54,6 +54,10 @@ dkms.conf
 # debug information files
 *.dwo
 
+# GitHub VsCode
+.github/
+.vscode/
+
 # validation tools
 scripts/
 
